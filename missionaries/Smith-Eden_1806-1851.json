@@ -1,0 +1,27 @@
+{
+	"name": {
+		"last": "Smith",
+		"first": "Eden"
+	},
+	"birth": { "year": 1806 },
+	"death": { "year": 1851, "month": 12, "day": 7 },
+	"family": [
+		{ "father": { "last": "Smith", "first": "John" } },
+		{ "mother": { "married": "Smith", "first": "Sarah" } }
+	],
+	"missions": [
+		{
+			"start": { "year": 1831, "month": 12, "day": 10 },
+			"end": { "year": 1831, "month": 12, "day": 19 },
+			"companions": [
+				{ "last": "Welton", "first": "Micah" }
+			],
+			"locations": [
+				{ "city": "Northampton", "state": "Ohio", "country": "United States" }
+			],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}
