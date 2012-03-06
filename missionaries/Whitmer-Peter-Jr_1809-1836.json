@@ -1,0 +1,35 @@
+{
+	"name": {
+		"last": "Whitmer",
+		"first": "Peter",
+		"suffix": "Jr."
+	},
+	"birth": {
+		"year": 1809,
+		"month": 9,
+		"day": 27
+	},
+	"death": {
+		"year": 1836,
+		"month": 9,
+		"day": 22
+	},
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

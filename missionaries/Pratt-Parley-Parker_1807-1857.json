@@ -1,0 +1,35 @@
+{
+	"name": {
+		"last": "Pratt",
+		"first": "Parley",
+		"middle": "Parker"
+	},
+	"birth": {
+		"year": 1807,
+		"month": 4,
+		"day": 12
+	},
+	"death": {
+		"year": 1857,
+		"month": 5,
+		"day": 13
+	},
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

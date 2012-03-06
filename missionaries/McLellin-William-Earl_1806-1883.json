@@ -1,0 +1,31 @@
+{
+	"name": {
+		"last": "McLellin",
+		"first": "William",
+		"middle": "Earl"
+	},
+	"birth": {
+		"year": 1806,
+		"month": 1,
+		"day": 18
+	},
+	"death": {
+		"year": 1883,
+		"month": 4,
+		"day": 24
+	},
+	"family": [
+		{ "father": { "last": "McLellin", "first": "Charles" } },
+		{ "sibling": { "last": "McLellin", "first": "Samuel" } },
+		{ "sibling": { "last": "McLellin", "first": "Israel" } },
+		{ "sibling": { "last": "McLellin", "first": "Nancy", "married": "Law" } },
+		{ "spouse": { "married": "McLellin", "first": "Cinthia", "middle": "Ann" } },
+		{ "spouse": { "last": "Miller", "first": "Emeline", "married": "McLellin" } },
+		{ "child": { "last": "McLellin", "first": "Charles", "middle": "William" } },
+		{ "child": { "last": "McLellin", "first": "Sarah", "middle": "Emeline" } },
+		{ "child": { "last": "McLellin", "first": "James", "middle": "Martin" } },
+		{ "child": { "last": "McLellin", "first": "Helen", "middle": "Rebecca" } },
+		{ "child": { "last": "McLellin", "first": "Albert", "middle": "Eugene" } },
+		{ "child": { "last": "McLellin", "first": "Marcus", "middle": "Nelson" } }
+	]
+}
