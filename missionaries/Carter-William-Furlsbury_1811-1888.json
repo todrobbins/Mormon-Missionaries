@@ -1,0 +1,23 @@
+{
+	"name": { "last": "Carter", "first": "William", "middle": "Furlsbury" },
+	"birth": { "year": 1811, "month": 5, "day": 1 },
+	"death": { "year": 1888, "month": 10, "day": 11 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": ["India"],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}
