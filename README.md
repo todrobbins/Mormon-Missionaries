@@ -126,32 +126,95 @@ The contents of each record file contain cataloging and researching information 
 
     {
     	"name": {
-    		"last": "McLellin",
-    		"first": "William",
-    		"middle": "Earl"
+    		"last": "Smith",
+    		"first": "Samuel",
+    		"middle": "Harrison"
     	},
     	"birth": {
-    		"year": 1806,
-    		"month": 1,
-    		"day": 18
+    		"year": 1808,
+    		"month": 3,
+    		"day": 13
     	},
     	"death": {
-    		"year": 1883,
-    		"month": 4,
-    		"day": 24
+    		"year": 1844,
+    		"month": 7,
+    		"day": 30
     	},
     	"family": [
-    		{ "father": { "last": "McLellin", "first": "Charles" } },
-    		{ "sibling": { "last": "McLellin", "first": "Samuel" } },
-    		{ "sibling": { "last": "McLellin", "first": "Israel" } },
-    		{ "sibling": { "last": "McLellin", "first": "Nancy", "married": "Law" } },
-    		{ "spouse": { "married": "McLellin", "first": "Cinthia", "middle": "Ann" } },
-    		{ "spouse": { "last": "Miller", "first": "Emeline", "married": "McLellin" } },
-    		{ "child": { "last": "McLellin", "first": "Charles", "middle": "William" } },
-    		{ "child": { "last": "McLellin", "first": "Sarah", "middle": "Emeline" } },
-    		{ "child": { "last": "McLellin", "first": "James", "middle": "Martin" } },
-    		{ "child": { "last": "McLellin", "first": "Helen", "middle": "Rebecca" } },
-    		{ "child": { "last": "McLellin", "first": "Albert", "middle": "Eugene" } },
-    		{ "child": { "last": "McLellin", "first": "Marcus", "middle": "Nelson" } }
-    	]
+    		{ "father": { "last": "Smith", "first": "Joseph", "suffix": "Sr." } },
+    		{ "mother": { "last": "Mack", "first": "Lucy", "married": "Smith" } },
+    		{ "spouse": { "last": "Bailey", "first": "Mary", "married": "Smith" } },
+    		{ "spouse": { "last": "Clark", "first": "Levira", "married": "Smith" } },
+    		{ "child": { "last": "Smith", "first": "Lucy" } },
+    		{ "child": { "last": "Smith", "first": "Susannah" } },
+    		{ "child": { "last": "Smith", "first": "Mary" } },
+    		{ "child": { "last": "Smith", "first": "Samuel", "middle": "Harrison" } },
+    		{ "child": { "last": "Smith", "first": "Lovisa", "middle": "C." } },
+    		{ "child": { "last": "Smith", "first": "Lucy", "middle": "J. C." } },
+    		{ "child": { "last": "Smith", "first": "Levira", "middle": "Annette" } },
+    	],
+    	"missions": [
+    		{
+    			"start": { "year": 1830, "month": 6, "day": 30 },
+    			"end": { "year": 1830, "month": 8 },
+    			"locations": [
+    				{ "city": "Bloomfield", "state": "New York" },
+    				{ "city": "Livonia", "state": "New York" }
+    			],
+    			"recipients": [
+    				{ "last": "Greene", "first": "John", "middle": "Portineus" },
+    				{ "last": "Beaman", "first": "Esquire" }
+    			],
+    			"sources": [
+    				{
+    					"author": { "last": "Mack", "first": "Lucy", "married": "Smith" },
+    					"title": "Biographical sketches of Joseph Smith the prophet, and his progenitors for many generations",
+    					"location": { "city": "Liverpool", "country": "Great Britain" },
+    					"publisher": "S. W. Richards",
+    					"date": { "year": 1853 }
+    				}
+    			]
+    		},
+    		{
+    			"start": { "year": 1831, "month": 1, "day": 2 },
+    			"end": { "year": 1831, "month": 2, "day": 27 },
+    			"locations": [
+    				{ "state": "New York" },
+    				{ "state": "Ohio" }
+    			],
+    			"companions": [ { "last": "Pratt", "first": "Orson", "id": "Pratt-Orson_1811-1881" } ],
+    			"sources": [
+    				{
+    					"author": { "last": "Pratt", "first": "Orson", "id": "Pratt-Orson_1811-1881" },
+    					"title": "History of Orson Pratt",
+    					"newspaper": "Millennial Star",
+    					"volume": 26,
+    					"pages": 55,
+    					"date": { "year": 1863 }
+    				},
+    				{
+    					"author": { "last": "Mack", "first": "Lucy", "married": "Smith" },
+    					"title": "Biographical sketches of Joseph Smith the prophet, and his progenitors for many generations",
+    					"location": { "city": "Liverpool", "country": "Great Britain" },
+    					"publisher": "S. W. Richards",
+    					"date": { "year": 1853 }
+    				}
+    			]
+    		},
+    		{
+    			"start": { "year": 1832, "month": 1, "day": 25 },
+    			"end": { "year": 1832, "month": 12, "day": 22 },
+    			"locations": [
+    				{ "state": "Ohio" },
+    				{ "state": "New York" },
+    				{ "state": "Pennsylvania" },
+    				{ "state": "Connecticut" },
+    				{ "state": "Rhode Island" },
+    				{ "state": "Massachusetts" },
+    				{ "state": "Maine" }
+    			],
+    			"companions": [ { "last": "Hyde", "first": "Orson", "id": "Hyde-Orson_1805-1878" } ]
+    		}
+    	],
+    	"sources": []
     }
