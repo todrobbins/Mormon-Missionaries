@@ -1,0 +1,50 @@
+{
+	"name": {
+		"last": "Smith",
+		"first": "Hyrum"
+	},
+	"birth": {
+		"year": 1800,
+		"month": 2,
+		"day": 9
+	},
+	"death": {
+		"year": 1844,
+		"month": 6,
+		"day": 27
+	},
+	"family": [
+		{ "father": { "last": "Smith", "first": "Joseph", "suffix": "Sr." } },
+		{ "mother": { "last": "Mack", "first": "Lucy", "married": "Smith" } },
+		{ "sibling": { "last": "Smith", "first": "Alvin" } },
+		{ "sibling": { "last": "Smith", "first": "Sophronia", "married": "Stoddard", "additional": "McCleary" } },
+		{ "sibling": { "last": "Smith", "first": "Joseph", "suffix": "Jr." } },
+		{ "sibling": { "last": "Smith", "first": "Samuel", "middle": "Harrison" }, "id": "Smith-Samuel-Harrison_1808-1844" },
+		{ "sibling": { "last": "Smith", "first": "Ephraim" } },
+		{ "sibling": { "last": "Smith", "first": "William", "middle": "B." } },
+		{ "sibling": { "last": "Smith", "first": "Katharine", "married": "Salisbury", "additional": "Younger" } },
+		{ "sibling": { "last": "Smith", "first": "Don Carlos" } },
+		{ "sibling": { "last": "Smith", "first": "Lucy", "married": "Millikin" } },
+		{ "spouse": { "last": "Barden", "first": "Jerusha", "married": "Smith" } },
+		{ "spouse": { "last": "Fielding", "first": "Mary", "married": "Smith" } },
+		{ "child": { "last": "Smith", "first": "Lovina", "married": "Walker" } },
+		{ "child": { "last": "Smith", "first": "Mary" } },
+		{ "child": { "last": "Smith", "first": "John" } },
+		{ "child": { "last": "Smith", "first": "Hyrum" } },
+		{ "child": { "last": "Smith", "first": "Jerusha" } },
+		{ "child": { "last": "Smith", "first": "Sarah", "married": "Griffin" } },
+		{ "child": { "last": "Smith", "first": "Joseph", "middle": "Fielding" } },
+		{ "child": { "last": "Smith", "first": "Martha", "middle": "Ann" } },
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

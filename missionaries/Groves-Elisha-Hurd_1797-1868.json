@@ -1,0 +1,69 @@
+{
+	"name": {
+		"last": "Groves",
+		"first": "Elisha",
+		"middle": "Hurd"
+	},
+	"birth": { "year": 1797 },
+	"death": { "year": 1868 },
+	"family": [
+		{ "spouse": { "last": "Hague", "first": "Sarah", "married": "Groves" } },
+		{ "spouse": { "last": "Simmons", "first": "Lucy", "married": "Groves" } }
+	],
+	"missions": [
+		{
+			"start": { "year": 1831 },
+			"end": { "year": 1831 },
+			"locations": [ { "state": "Indiana?" } ]
+		},
+		{
+			"start": { "year": 1833 },
+			"end": { "year": 1834 },
+			"locations": [ { "state": "Illinois" } ]
+		}
+		{
+			"start": { "year": 1835 },
+			"end": { "year": 1836 },
+			"locations": [ { "area": "Kirtland?" } ]
+		},
+		{
+			"start": { "year": 1836 },
+			"end": { "year": 1836 },
+			"locations": [ { "state": "Kentucky" } ],
+			"companions": [ { "last": "Marsh", "first": "Thomas", "middle": "Baldwin", "id": "Marsh-Thomas-Baldwin_1799-1866" } ]
+		},
+		{
+			"start": { "year": 1838 },
+			"end": { "year": 1838 },
+			"locations": [
+				{ "county": "Adams", "state": "Illinois" }
+			]
+		},
+		{
+			"start": { "year": 1842 },
+			"end": { "year": 1843 },
+			"locations": [ { "state": "Illinois" } ]
+		},
+		{
+			"start": { "year": 1844 },
+			"end": { "year": 1844 }
+		}
+	],
+	"sources": [
+		{
+			"author": { "last": "Groves", "first": "Elisha", "middle": "Hurd" },
+			"title": "Autobiography",
+			"callNumber": "Ms 2050",
+			"archive": "Church History Library",
+			"box": 11,
+			"folder": 13,
+			"folio": 1
+		},
+		{
+			"author": { "last": "Packer", "first": "Murland", "middle": "Ray" },
+			"title": "Life history of Elisha Hurd Groves, 1990",
+			"callNumber": "Ms 20881",
+			"archive": "Church History Library"
+		}
+	]
+}
