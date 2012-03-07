@@ -163,7 +163,7 @@ The contents of each record file contain cataloging and researching information 
     			],
     			"recipients": [
     				{ "last": "Greene", "first": "John", "middle": "Portineus" },
-    				{ "last": "Beaman", "first": "Esquire" }
+    				{ "last": "Beman", "first": "Alvah" }
     			],
     			"sources": [
     				{
