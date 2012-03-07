@@ -1,0 +1,35 @@
+{
+	"name": {
+		"last": "Carter",
+		"first": "William",
+		"middle": "John Benbow"
+	},
+	"birth": {
+		"year": 1852,
+		"month": 6,
+		"day": 29
+	},
+	"death": {
+		"year": 1908,
+		"month": 3,
+		"day": 9
+	},
+	"family": [
+		{ "father": { "last": "Carter", "first": "William" } },
+		{ "mother": { "last": "Benbow", "first": "Ellen" } },
+		{ "spouse": { "last": "Blake", "first": "Emma", "married": "Carter" } },
+		{ "spouse": { "last": "Smith", "first": "Lottie", "middle": "Rose", "married": "Carter"} },
+		{ "child": { "last": "Carter", "first": "Metta", "middle": "Smith", "married": "Gerard" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

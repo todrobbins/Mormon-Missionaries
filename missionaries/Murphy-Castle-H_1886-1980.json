@@ -1,0 +1,26 @@
+{
+	"name": {
+		"last": "Murphy",
+		"first": "Castle"
+	},
+	"birth": { "year": 1886 },
+	"death": { "year": 1980 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

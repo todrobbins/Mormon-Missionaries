@@ -1,0 +1,26 @@
+{
+	"name": {
+		"last": "Robingson",
+		"first": "Phileon"
+	},
+	"birth": { "year": 1882 },
+	"death": { "year": 1974 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

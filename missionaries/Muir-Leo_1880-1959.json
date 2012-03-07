@@ -1,0 +1,26 @@
+{
+	"name": {
+		"last": "Muir",
+		"first": "Leo"
+	},
+	"birth": { "year": 1880 },
+	"death": { "year": 1959 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": #, "month": #, "day": # },
+			"end": { "year": #, "month": #, "day": # },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}
