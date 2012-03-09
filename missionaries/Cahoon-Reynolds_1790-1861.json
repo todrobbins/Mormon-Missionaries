@@ -1,6 +1,6 @@
 {
 	"_id": "missionaries/Cahoon-Reynolds_1790-1861",
-	name: { "last": "Cahoon", "first": "Reynolds" },
+	"name": { "last": "Cahoon", "first": "Reynolds" },
 	"birth": { "year": 1790, "month": 4, "day": 30 },
 	"death": { "year": 1861, "month": 4, "day": 29 },
 	"family": [
