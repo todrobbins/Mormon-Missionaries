@@ -1,5 +1,6 @@
 {
-	"name": {
+	"_id": "missionaries/Smith-Hyrum_1800-1844",
+	name: {
 		"last": "Smith",
 		"first": "Hyrum"
 	},
