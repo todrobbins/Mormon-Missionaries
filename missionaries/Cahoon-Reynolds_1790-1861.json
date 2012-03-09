@@ -11,8 +11,8 @@
 	],
 	"missions": [
 		{
-			"start": { "year": #, "month": #, "day": # },
-			"end": { "year": #, "month": #, "day": # },
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
 			"companions": [],
 			"locations": [],
 			"recipients": [],
