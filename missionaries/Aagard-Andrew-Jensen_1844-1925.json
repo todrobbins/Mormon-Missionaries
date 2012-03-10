@@ -1,8 +1,8 @@
 {
-	"_id": "missionaries/Aagard-Andrew-Jensen_1844-1925",
 	"name": {
 		"last": "Aagard",
-		"first": "Andrew"
+		"first": "Andrew",
+		"middle": "Jensen"
 	},
 	"birth": { "year": 1844 },
 	"death": { "year": 1925 },
@@ -16,12 +16,7 @@
 	"missions": [
 		{
 			"start": { "year": "#", "month": "#", "day": "#" },
-			"end": { "year": "#", "month": "#", "day": "#" },
-			"companions": [],
-			"locations": [],
-			"recipients": [],
-			"sources": []
+			"end": { "year": "#", "month": "#", "day": "#" }
 		}
-	],
-	"sources": []
+	]
 }

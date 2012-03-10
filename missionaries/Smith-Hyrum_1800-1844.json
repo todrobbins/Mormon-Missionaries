@@ -35,7 +35,7 @@
 		{ "child": { "last": "Smith", "first": "Jerusha" } },
 		{ "child": { "last": "Smith", "first": "Sarah", "married": "Griffin" } },
 		{ "child": { "last": "Smith", "first": "Joseph", "middle": "Fielding" } },
-		{ "child": { "last": "Smith", "first": "Martha", "middle": "Ann" } },
+		{ "child": { "last": "Smith", "first": "Martha", "middle": "Ann" } }
 	],
 	"missions": [
 		{

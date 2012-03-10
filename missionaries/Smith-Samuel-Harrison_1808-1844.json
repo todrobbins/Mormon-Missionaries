@@ -35,7 +35,7 @@
 		{ "child": { "last": "Smith", "first": "Samuel", "middle": "Harrison" } },
 		{ "child": { "last": "Smith", "first": "Lovisa", "middle": "C." } },
 		{ "child": { "last": "Smith", "first": "Lucy", "middle": "J. C." } },
-		{ "child": { "last": "Smith", "first": "Levira", "middle": "Annette" } },
+		{ "child": { "last": "Smith", "first": "Levira", "middle": "Annette" } }
 	],
 	"missions": [
 		{
