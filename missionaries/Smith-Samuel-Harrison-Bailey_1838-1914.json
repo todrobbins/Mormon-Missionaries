@@ -1,11 +1,11 @@
 {
-	"_id": "missionaries/Smith-Samuel-H-B_1838-1914",
 	"name": {
 		"last": "Smith",
-		"first": "Samuel"
+		"first": "Samuel",
+		"middle": "Harrison Bailey"
 	},
-	"birth": { "year": 1838 },
-	"death": { "year": 1914 },
+	"birth": { "year": 1838, "month": 8, "day": 1 },
+	"death": { "year": 1914, "month": 6, "day": 12 },
 	"family": [
 		{ "father": { "last": "", "first": "" } },
 		{ "mother": { "last": "", "first": "" } },

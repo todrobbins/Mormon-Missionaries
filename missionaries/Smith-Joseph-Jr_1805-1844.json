@@ -1,8 +1,8 @@
 {
-	"_id": "missionaries/Smith-Joseph-Jr_1805-1844",
 	"name": {
 		"last": "Smith",
-		"first": "Joseph"
+		"first": "Joseph",
+		"suffix": "Jr"
 	},
 	"birth": { "year": 1805 },
 	"death": { "year": 1844 },

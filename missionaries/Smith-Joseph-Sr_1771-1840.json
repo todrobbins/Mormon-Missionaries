@@ -2,7 +2,8 @@
 	"_id": "missionaries/Smith-Joseph-Sr_1771-1840",
 	"name": {
 		"last": "Smith",
-		"first": "Joseph"
+		"first": "Joseph",
+		"suffix": "Sr"
 	},
 	"birth": { "year": 1771 },
 	"death": { "year": 1840 },

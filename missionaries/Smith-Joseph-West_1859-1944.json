@@ -2,7 +2,8 @@
 	"_id": "missionaries/Smith-Joseph-West_1859-1944",
 	"name": {
 		"last": "Smith",
-		"first": "Joseph"
+		"first": "Joseph",
+		"middle": "West"
 	},
 	"birth": { "year": 1859 },
 	"death": { "year": 1944 },
