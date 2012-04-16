@@ -118,6 +118,14 @@
 							"call": "MSS 1151",
 							"url": "http://search.lib.byu.edu/byu/id:byu_unicorn1635217",
 							"type": "typescript"
+						},
+						{
+							"institution": "Harold B. Lee Library",
+							"university": "Brigham Young University",
+							"location": { "city": "Provo", "state": "Utah", "country": "United States" },
+							"call": "SCM 823 Item 2",
+							"url": "http://search.lib.byu.edu/byu/id:byu_unicorn1635217",
+							"type": "microfilm"
 						}
 					]
 				}
