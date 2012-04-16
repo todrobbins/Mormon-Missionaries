@@ -96,7 +96,32 @@
 				{ "state": "Massachusetts" },
 				{ "state": "Maine" }
 			],
-			"companions": [ { "last": "Hyde", "first": "Orson", "id": "Hyde-Orson_1805-1878" } ]
+			"companions": [ { "last": "Hyde", "first": "Orson", "id": "Hyde-Orson_1805-1878" } ],
+			"sources": [
+				{
+					"author": { "last": "Smith", "first": "Samuel", "middle": "Harrison" },
+					"title": "Diary",
+					"start": { "year": 1832, "month": 2 },
+					"end": { "year": 1833, "month": 5 },
+					"venues": [
+						{
+							"institution": "Church History Library",
+							"location": { "city": "Salt Lake City", "state": "Utah", "country": "United States" },
+							"call": "MS 4213",
+							"url": "http://churchhistorycatalog.lds.org/primo_library/libweb/action/display.do?doc=ALEPH-PCHD000136347",
+							"type": "manuscript"
+						},
+						{
+							"institution": "Harold B. Lee Library",
+							"university": "Brigham Young University",
+							"location": { "city": "Provo", "state": "Utah", "country": "United States" },
+							"call": "MSS 1151",
+							"url": "http://search.lib.byu.edu/byu/id:byu_unicorn1635217",
+							"type": "typescript"
+						}
+					]
+				}
+			]
 		}
 	],
 	"sources": []
