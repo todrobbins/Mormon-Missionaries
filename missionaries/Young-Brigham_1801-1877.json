@@ -23,5 +23,13 @@
 			"sources": []
 		}
 	],
-	"sources": []
+	"sources": [
+		{
+                    "author": { "last": "Young", "first": "Brigham" },
+                    "title": "Journal, 1844–1876. Brigham Young Office Files, 1832–1878.",
+                    "location": { "city": "Salt Lake City", "country": "United States" },
+                    "date": { "year": 1844 },
+                    "venue": { "title": "CHL" }
+                }
+	]
 }
