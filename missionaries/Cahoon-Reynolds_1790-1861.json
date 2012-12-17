@@ -8,7 +8,7 @@
 		{ "mother": { "last": "", "first": "" } },
 		{ "sibling": { "last": "", "first": "" } },
 		{ "spouse": { "last": "", "first": "" } },
-		{ "child": { "last": "", "first": "" } }
+		{ "child": { "last": "Cahoon", "first": "Mahonri", "middle": "Moriancumer" } }
 	],
 	"missions": [
 		{
