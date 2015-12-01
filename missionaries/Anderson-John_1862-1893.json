@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Anderson-John_1862-1893",
+	"name": {
+		"last": "Anderson",
+		"first": "John"
+	},
+	"birth": { "year": 1862 },
+	"death": { "year": 1893 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

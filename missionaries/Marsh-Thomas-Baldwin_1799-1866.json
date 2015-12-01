@@ -1,0 +1,35 @@
+{
+	"_id": "missionaries/Marsh-Thomas-Baldwin_1799-1866",
+	"name": {
+		"last": "Marsh",
+		"first": "Thomas",
+		"middle": "Baldwin"
+	},
+	"birth": {
+		"year": 1799,
+		"month": 11,
+		"day": 1
+	},
+	"death": {
+		"year": 1866,
+		"month": 1
+	},
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

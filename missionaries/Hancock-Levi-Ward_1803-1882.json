@@ -1,0 +1,36 @@
+{
+	"_id": "missionaries/Hancock-Levi-Ward_1803-1882",
+	"name": {
+		"last": "Hancock",
+		"first": "Levi",
+		"middle": "Ward"
+	},
+	"birth": {
+		"year": 1803,
+		"month": 4,
+		"day": 7
+	},
+	"death": {
+		"year": 1882,
+		"month": 6,
+		"day": 10
+	},
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

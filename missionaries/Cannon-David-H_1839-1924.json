@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Cannon-David-H_1839-1924",
+	"name": {
+		"last": "Cannon",
+		"first": "David"
+	},
+	"birth": { "year": 1839 },
+	"death": { "year": 1924 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

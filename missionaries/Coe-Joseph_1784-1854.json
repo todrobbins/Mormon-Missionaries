@@ -1,0 +1,31 @@
+{
+	"_id": "missionaries/Coe-Joseph_1784-1854",
+	"name": {
+		"last": "Coe",
+		"first": "Joseph"
+	},
+	"birth": {
+		"year": 1784,
+		"month": 11,
+		"day": 12
+	},
+	"death": {
+		"year": 1854
+	},
+	"family": [
+		{ "father": { "last": "Coe", "first": "Joel" } },
+		{ "mother": { "last": "Horton", "first": "Huldah" } },
+		{ "spouse": { "last": "Wales", "first": "Pallas", "married": "Coe" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Aarrestad-Torkel-Evan-Torkelsen_1852-1931",
+	"name": {
+		"last": "Aarrestad",
+		"first": "Torkel"
+	},
+	"birth": { "year": 1852 },
+	"death": { "year": 1931 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

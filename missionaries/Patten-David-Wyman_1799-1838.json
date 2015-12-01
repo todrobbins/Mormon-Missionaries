@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Patten-David-Wyman_1799-1838",
+	"name": {
+		"last": "Patten",
+		"first": "David"
+	},
+	"birth": { "year": 1799 },
+	"death": { "year": 1838 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

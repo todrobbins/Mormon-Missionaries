@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Eriksen-Bendt-Jensen_1832-1904",
+	"name": {
+		"last": "Eriksen",
+		"first": "Bendt"
+	},
+	"birth": { "year": 1832 },
+	"death": { "year": 1904 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

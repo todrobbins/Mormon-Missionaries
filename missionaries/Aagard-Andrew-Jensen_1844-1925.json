@@ -1,0 +1,22 @@
+{
+	"name": {
+		"last": "Aagard",
+		"first": "Andrew",
+		"middle": "Jensen"
+	},
+	"birth": { "year": 1844 },
+	"death": { "year": 1925 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" }
+		}
+	]
+}

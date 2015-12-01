@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Olson-Andrew_1856-1897",
+	"name": {
+		"last": "Olson",
+		"first": "Andrew"
+	},
+	"birth": { "year": 1856 },
+	"death": { "year": 1897 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

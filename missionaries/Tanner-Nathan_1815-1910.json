@@ -1,0 +1,73 @@
+{
+	"_id": "missionaries/Tanner-Nathan_1815-1910",
+	"name": {
+		"last": "Tanner",
+		"first": "Nathan"
+	},
+	"birth": {
+		"year": 1815,
+		"month": 5,
+		"day": 14
+	},
+	"death": {
+		"year": 1910,
+		"month": 12,
+		"day": 17
+	},
+	"family": [
+		{ "father": { "last": "Tanner", "first": "John" } },
+		{ "mother": { "last": "Stewart", "first": "Lydia", "married": "Tanner" } },
+		{ "sibling": { "last": "Tanner", "first": "Matilda" } },
+		{ "sibling": { "last": "Tanner", "first": "William", "middle": "Stewart" } },
+		{ "sibling": { "last": "Tanner", "first": "Edwin" } },
+		{ "sibling": { "last": "Tanner", "first": "Albert", "middle": "Miles" } },
+		{ "sibling": { "last": "Tanner", "first": "Willard" } },
+		{ "sibling": { "last": "Tanner", "first": "Martin", "middle": "Henry" } },
+		{ "sibling": { "last": "Tanner", "first": "John", "middle": "Joshua" } },
+		{ "sibling": { "last": "Tanner", "first": "Pardon" } },
+		{ "sibling": { "last": "Tanner", "first": "Edward" } },
+		{ "sibling": { "last": "Tanner", "first": "Sidney" } },
+		{ "sibling": { "last": "Tanner", "first": "Romelia" } },
+		{ "sibling": { "last": "Tanner", "first": "Maria", "middle": "Louisa" } },
+		{ "sibling": { "last": "Tanner", "first": "Francis" } },
+		{ "sibling": { "last": "Tanner", "first": "Sariah" } },
+		{ "sibling": { "last": "Tanner", "first": "Philomelia" } },
+		{ "sibling": { "last": "Tanner", "first": "Myron" } },
+		{ "sibling": { "last": "Tanner", "first": "Seth", "middle": "Benjamin" } },
+		{ "sibling": { "last": "Tanner", "first": "David", "middle": "Dan" } },
+		{ "sibling": { "last": "Tanner", "first": "Joseph", "middle": "Smith" } },
+		{ "spouse": { "last": "Smith", "first": "Rachel", "middle": "Winter", "married": "Tanner" } },
+		{ "spouse": { "last": "Littley", "first": "Sarah", "married": "Tanner" } },
+		{ "spouse": { "last": "Tippets", "first": "Persis", "married": "Tanner" } },
+		{ "spouse": { "last": "Baker", "first": "Mary", "middle": "Rosina", "married": "Tanner" } },
+		{ "spouse": { "last": "Peacock", "first": "Mary", "married": "Tanner" } },
+		{ "child": { "last": "Tanner", "first": "Romelia" } },
+		{ "child": { "last": "Tanner", "first": "Julaette" } },
+		{ "child": { "last": "Tanner", "first": "Helen", "middle": "Alcy" } },
+		{ "child": { "last": "Tanner", "first": "Franklin", "middle": "Smith" } },
+		{ "child": { "last": "Tanner", "first": "Matilda", "middle": "Maria" } },
+		{ "child": { "last": "Tanner", "first": "Emily", "middle": "Sophia" } },
+		{ "child": { "last": "Tanner", "first": "Stewart", "middle": "Tefft" } },
+		{ "child": { "last": "Tanner", "first": "John", "middle": "William" } },
+		{ "child": { "last": "Tanner", "first": "Nathan", "suffix": "Jr." } },
+		{ "child": { "last": "Tanner", "first": "Rachel", "middle": "Winter" } },
+		{ "child": { "last": "Tanner", "first": "Sarah", "middle": "Littley" } },
+		{ "child": { "last": "Tanner", "first": "Alva", "middle": "Amesa" } },
+		{ "child": { "last": "Tanner", "first": "Abigail", "middle": "Lodicia" } },
+		{ "child": { "last": "Tanner", "first": "Martin", "middle": "Henry" } },
+		{ "child": { "last": "Tanner", "first": "Harriet", "middle": "Persis" } },
+		{ "child": { "last": "Tanner", "first": "Isabell" } },
+		{ "child": { "last": "Tanner", "first": "Rosetta" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

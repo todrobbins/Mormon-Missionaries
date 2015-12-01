@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Bramall-William_1824-1907",
+	"name": {
+		"last": "Bramall",
+		"first": "William"
+	},
+	"birth": { "year": 1824 },
+	"death": { "year": 1907 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

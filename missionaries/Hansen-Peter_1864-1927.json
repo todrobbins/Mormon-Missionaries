@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hansen-Peter_1864-1927",
+	"name": {
+		"last": "Hansen",
+		"first": "Peter"
+	},
+	"birth": { "year": 1864 },
+	"death": { "year": 1927 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

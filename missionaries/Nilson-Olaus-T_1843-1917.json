@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Nilson-Olaus-T_1843-1917",
+	"name": {
+		"last": "Nilson",
+		"first": "Olaus"
+	},
+	"birth": { "year": 1843 },
+	"death": { "year": 1917 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,45 @@
+{
+	"_id": "missionaries/Carter-Gideon-Hayden_1798-1838",
+	"name": {
+		"last": "Carter",
+		"first": "Gideon",
+		"middle": "Hayden"
+	},
+	"aliases": [ { "middle": "Haden" } ],
+	"birth": {
+		"year": 1798
+	},
+	"death": {
+		"year": 1838,
+		"month": 10,
+		"day": 25
+	},
+	"family": [
+		{ "father": { "last": "Carter", "first": "Gideon" } },
+		{ "mother": { "last": "Sims", "first": "Johanna", "married": "Carter" } },
+		{ "spouse": { "last": "Burwell", "first": "Hilda", "married": "Carter" } },
+		{ "sibling": {"last": "Carter", "first": "Jared" } },
+		{ "child": { "last": "Carter", "first": "Moses" } },
+		{ "child": { "last": "Carter", "first": "Gideon" } },
+		{ "child": { "last": "Carter", "first": "Philo" } },
+		{ "child": { "last": "Carter", "first": "Ervin" } },
+		{ "child": { "last": "Carter", "first": "Rosella" } },
+		{ "child": { "last": "Carter", "first": "Matilda" } }
+	],
+	"missions": [
+		{
+			"start": { "year": 1832, "month": 4, "day": 5 },
+			"end": { "year": 1832, "month": 8, "day": 24 },
+			"companions": [ { "last": "Smith", "first": "Sylvester" } ],
+			"locations": [
+				{ "state": "Pennsylvania" },
+				{ "state": "New York" },
+				{ "state": "Vermont" },
+				{ "city": "Benson", "state": "Vermont" }
+			],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

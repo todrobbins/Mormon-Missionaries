@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Clark-Israel-Justus_1826-1905",
+	"name": {
+		"last": "Clark",
+		"first": "Israel"
+	},
+	"birth": { "year": 1826 },
+	"death": { "year": 1905 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

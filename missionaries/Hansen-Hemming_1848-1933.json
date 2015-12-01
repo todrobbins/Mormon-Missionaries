@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hansen-Hemming_1848-1933",
+	"name": {
+		"last": "Hansen",
+		"first": "Hemming"
+	},
+	"birth": { "year": 1848 },
+	"death": { "year": 1933 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

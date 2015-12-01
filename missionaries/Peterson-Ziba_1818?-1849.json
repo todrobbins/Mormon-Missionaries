@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Peterson-Ziba_1818?-1849",
+	"name": {
+		"last": "Peterson",
+		"first": "Ziba"
+	},
+	"birth": { "year": 1818 },
+	"death": { "year": 1849 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

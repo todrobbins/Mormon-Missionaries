@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hill-Jobe-Hughes_1855-1906",
+	"name": {
+		"last": "Hill",
+		"first": "Jobe"
+	},
+	"birth": { "year": 1855 },
+	"death": { "year": 1906 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

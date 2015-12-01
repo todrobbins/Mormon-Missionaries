@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hendricksen-Andrew_1830-1898",
+	"name": {
+		"last": "Hendricksen",
+		"first": "Andrew"
+	},
+	"birth": { "year": 1830 },
+	"death": { "year": 1898 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

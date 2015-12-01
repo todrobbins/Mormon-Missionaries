@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Holbrook-Joseph_1806-1871",
+	"name": {
+		"last": "Holbrook",
+		"first": "Joseph"
+	},
+	"birth": { "year": 1806 },
+	"death": { "year": 1871 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hansen-Andrew_1845-1925",
+	"name": {
+		"last": "Hansen",
+		"first": "Andrew"
+	},
+	"birth": { "year": 1845 },
+	"death": { "year": 1925 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

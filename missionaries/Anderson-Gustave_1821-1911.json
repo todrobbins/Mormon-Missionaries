@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Anderson-Gustave_1821-1911",
+	"name": {
+		"last": "Anderson",
+		"first": "Gustave"
+	},
+	"birth": { "year": 1821 },
+	"death": { "year": 1911 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Gyllenskog-Nils-Oscar_1858-1956",
+	"name": {
+		"last": "Gyllenskog",
+		"first": "Nils"
+	},
+	"birth": { "year": 1858 },
+	"death": { "year": 1956 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Anderson-August-Kull_1843-1925",
+	"name": {
+		"last": "Anderson",
+		"first": "August"
+	},
+	"birth": { "year": 1843 },
+	"death": { "year": 1925 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Ludvigsen-Fredrik-E_1836-1918",
+	"name": {
+		"last": "Ludvigsen",
+		"first": "Fredrik"
+	},
+	"birth": { "year": 1836 },
+	"death": { "year": 1918 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

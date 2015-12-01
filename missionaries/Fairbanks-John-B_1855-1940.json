@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Fairbanks-John-B_1855-1940",
+	"name": {
+		"last": "Fairbanks",
+		"first": "John"
+	},
+	"birth": { "year": 1855 },
+	"death": { "year": 1940 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

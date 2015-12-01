@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Shill-Charles-Goulding_1821-1910",
+	"name": {
+		"last": "Shill",
+		"first": "Charles"
+	},
+	"birth": { "year": 1821 },
+	"death": { "year": 1910 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

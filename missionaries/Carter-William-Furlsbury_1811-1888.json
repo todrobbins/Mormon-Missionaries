@@ -14,7 +14,9 @@
 			"start": { "year": #, "month": #, "day": # },
 			"end": { "year": #, "month": #, "day": # },
 			"companions": [],
-			"locations": ["India"],
+			"locations": [
+				{ "country": "India" }
+			],
 			"recipients": [],
 			"sources": []
 		}

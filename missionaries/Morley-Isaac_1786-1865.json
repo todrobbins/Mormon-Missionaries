@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Morley-Isaac_1786-1865",
+	"name": {
+		"last": "Morley",
+		"first": "Isaac"
+	},
+	"birth": { "year": 1786 },
+	"death": { "year": 1865 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

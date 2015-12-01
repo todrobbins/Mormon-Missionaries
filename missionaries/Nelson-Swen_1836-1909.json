@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Nelson-Swen_1836-1909",
+	"name": {
+		"last": "Nelson",
+		"first": "Swen"
+	},
+	"birth": { "year": 1836 },
+	"death": { "year": 1909 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,4 +1,5 @@
 {
+	"_id": "missionaries/Pratt-Orson_1811-1881",
 	"name": {
 		"last": "Pratt",
 		"first": "Orson"
@@ -22,8 +23,8 @@
 	],
 	"missions": [
 		{
-			"start": { "year": #, "month": #, "day": # },
-			"end": { "year": #, "month": #, "day": # },
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
 			"companions": [],
 			"locations": [],
 			"recipients": [],

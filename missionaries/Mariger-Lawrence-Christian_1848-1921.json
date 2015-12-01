@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Mariger-Lawrence-Christian_1848-1921",
+	"name": {
+		"last": "Mariger",
+		"first": "Lawrence"
+	},
+	"birth": { "year": 1848 },
+	"death": { "year": 1921 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

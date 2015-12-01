@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Nielsen-Jens-Christian_1829-1889",
+	"name": {
+		"last": "Nielsen",
+		"first": "Jens"
+	},
+	"birth": { "year": 1829 },
+	"death": { "year": 1889 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

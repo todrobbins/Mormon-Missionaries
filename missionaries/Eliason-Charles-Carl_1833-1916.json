@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Eliason-Charles-Carl_1833-1916",
+	"name": {
+		"last": "Eliason",
+		"first": "Charles"
+	},
+	"birth": { "year": 1833 },
+	"death": { "year": 1916 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

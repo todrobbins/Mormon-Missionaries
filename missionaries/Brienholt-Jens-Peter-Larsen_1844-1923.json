@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Brienholt-Jens-Peter-Larsen_1844-1923",
+	"name": {
+		"last": "Brienholt",
+		"first": "Jens"
+	},
+	"birth": { "year": 1844 },
+	"death": { "year": 1923 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

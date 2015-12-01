@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Forsgren-John-Heber_1856-1946",
+	"name": {
+		"last": "Forsgren",
+		"first": "John"
+	},
+	"birth": { "year": 1856 },
+	"death": { "year": 1946 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

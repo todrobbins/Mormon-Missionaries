@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Herriman-Henry_1804-1891",
+	"name": {
+		"last": "Herriman",
+		"first": "Henry"
+	},
+	"birth": { "year": 1804 },
+	"death": { "year": 1891 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

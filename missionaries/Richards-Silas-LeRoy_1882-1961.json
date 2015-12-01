@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Richards-Silas-LeRoy_1882-1961",
+	"name": {
+		"last": "Richards",
+		"first": "Silas"
+	},
+	"birth": { "year": 1882 },
+	"death": { "year": 1961 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

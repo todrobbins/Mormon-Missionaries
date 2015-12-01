@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Andersen-C-Emil_1838-1906",
+	"name": {
+		"last": "Andersen",
+		"first": "C"
+	},
+	"birth": { "year": 1838 },
+	"death": { "year": 1906 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

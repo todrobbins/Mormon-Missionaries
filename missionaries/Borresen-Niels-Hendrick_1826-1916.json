@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Borresen-Niels-Hendrick_1826-1916",
+	"name": {
+		"last": "Borresen",
+		"first": "Niels"
+	},
+	"birth": { "year": 1826 },
+	"death": { "year": 1916 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

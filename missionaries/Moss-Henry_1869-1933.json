@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Moss-Henry_1869-1933",
+	"name": {
+		"last": "Moss",
+		"first": "Henry"
+	},
+	"birth": { "year": 1869 },
+	"death": { "year": 1933 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

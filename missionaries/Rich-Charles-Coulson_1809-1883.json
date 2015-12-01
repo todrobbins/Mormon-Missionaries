@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Rich-Charles-Coulson_1809-1883",
+	"name": {
+		"last": "Rich",
+		"first": "Charles"
+	},
+	"birth": { "year": 1809 },
+	"death": { "year": 1883 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

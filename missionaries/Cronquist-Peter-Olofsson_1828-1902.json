@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Cronquist-Peter-Olofsson_1828-1902",
+	"name": {
+		"last": "Cronquist",
+		"first": "Peter"
+	},
+	"birth": { "year": 1828 },
+	"death": { "year": 1902 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

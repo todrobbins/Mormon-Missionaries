@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Peterson-Zola_1889-1971",
+	"name": {
+		"last": "Peterson",
+		"first": "Zola"
+	},
+	"birth": { "year": 1889 },
+	"death": { "year": 1971 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

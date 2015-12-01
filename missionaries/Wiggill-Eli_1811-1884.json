@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Wiggill-Eli_1811-1884",
+	"name": {
+		"last": "Wiggill",
+		"first": "Eli"
+	},
+	"birth": { "year": 1811 },
+	"death": { "year": 1884 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Aldrich-Hazen_1797-1873",
+	"name": {
+		"last": "Aldrich",
+		"first": "Hazen"
+	},
+	"birth": { "year": 1797 },
+	"death": { "year": 1873 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

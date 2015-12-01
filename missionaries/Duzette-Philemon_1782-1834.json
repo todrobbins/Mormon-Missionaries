@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Duzette-Philemon_1782-1834",
+	"name": {
+		"last": "Duzette",
+		"first": "Philemon"
+	},
+	"birth": { "year": 1782 },
+	"death": { "year": 1834 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

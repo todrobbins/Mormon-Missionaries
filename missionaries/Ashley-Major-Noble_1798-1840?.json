@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Ashley-Major-Noble_1798-1840?",
+	"name": {
+		"last": "Ashley",
+		"first": "Major"
+	},
+	"birth": { "year": 1798 },
+	"death": { "year": 1840 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

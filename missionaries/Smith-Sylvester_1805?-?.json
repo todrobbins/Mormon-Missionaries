@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Smith-Sylvester_1805?-?",
+	"name": {
+		"last": "Smith",
+		"first": "Sylvester"
+	},
+	"birth": { "year": 1805 },
+	"death": { "year": 0 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

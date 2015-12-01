@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Jensen-Nephi_1876-1955",
+	"name": {
+		"last": "Jensen",
+		"first": "Nephi"
+	},
+	"birth": { "year": 1876 },
+	"death": { "year": 1955 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Whipple-Edson_1805-1894",
+	"name": {
+		"last": "Whipple",
+		"first": "Edson"
+	},
+	"birth": { "year": 1805 },
+	"death": { "year": 1894 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

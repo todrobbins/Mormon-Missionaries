@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Copley-Leman_1781-1862",
+	"name": {
+		"last": "Copley",
+		"first": "Leman"
+	},
+	"birth": { "year": 1781 },
+	"death": { "year": 1862 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

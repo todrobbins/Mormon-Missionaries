@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Thorup-John-Theobald-Charles_1856-1918",
+	"name": {
+		"last": "Thorup",
+		"first": "John"
+	},
+	"birth": { "year": 1856 },
+	"death": { "year": 1918 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

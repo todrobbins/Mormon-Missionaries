@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Hansen-Jens-Nielsen_1842-1906",
+	"name": {
+		"last": "Hansen",
+		"first": "Jens"
+	},
+	"birth": { "year": 1842 },
+	"death": { "year": 1906 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

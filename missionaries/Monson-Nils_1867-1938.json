@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Monson-Nils_1867-1938",
+	"name": {
+		"last": "Monson",
+		"first": "Nils"
+	},
+	"birth": { "year": 1867 },
+	"death": { "year": 1938 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Green-Harvey_1806-1875",
+	"name": {
+		"last": "Green",
+		"first": "Harvey"
+	},
+	"birth": { "year": 1806 },
+	"death": { "year": 1875 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Poulsen-James_1831-1920",
+	"name": {
+		"last": "Poulsen",
+		"first": "James"
+	},
+	"birth": { "year": 1831 },
+	"death": { "year": 1920 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

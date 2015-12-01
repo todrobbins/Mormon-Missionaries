@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Young-Levi-Edgar_1874-1963",
+	"name": {
+		"last": "Young",
+		"first": "Levi"
+	},
+	"birth": { "year": 1874 },
+	"death": { "year": 1963 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

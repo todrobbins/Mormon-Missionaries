@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Karlson-Claus-Herman_1849-1915",
+	"name": {
+		"last": "Karlson",
+		"first": "Claus"
+	},
+	"birth": { "year": 1849 },
+	"death": { "year": 1915 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}

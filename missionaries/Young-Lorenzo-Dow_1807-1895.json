@@ -1,17 +1,18 @@
 {
+	"_id": "missionaries/Young-Lorenzo-Dow_1807-1895",
 	"name": {
 		"last": "",
 		"first": ""
 	},
 	"birth": {
-		"year": #,
-		"month": #,
-		"day": #
+		"year": "#",
+		"month": "#",
+		"day": "#"
 	},
 	"death": {
-		"year": #,
-		"month": #,
-		"day": #
+		"year": "#",
+		"month": "#",
+		"day": "#"
 	},
 	"family": [
 		{ "father": { "last": "", "first": "" } },
@@ -22,8 +23,8 @@
 	],
 	"missions": [
 		{
-			"start": { "year": #, "month": #, "day": # },
-			"end": { "year": #, "month": #, "day": # },
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
 			"companions": [],
 			"locations": [],
 			"recipients": [],

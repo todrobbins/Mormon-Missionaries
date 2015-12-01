@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Kimball-Heber-Chase_1801-1868",
+	"name": {
+		"last": "Kimball",
+		"first": "Heber"
+	},
+	"birth": { "year": 1801 },
+	"death": { "year": 1868 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}
