@@ -1,0 +1,27 @@
+{
+	"_id": "missionaries/Schröder-Thomas-Richard_1864-1949",
+	"name": {
+		"last": "Schröder",
+		"first": "Thomas"
+	},
+	"birth": { "year": 1864 },
+	"death": { "year": 1949 },
+	"family": [
+		{ "father": { "last": "", "first": "" } },
+		{ "mother": { "last": "", "first": "" } },
+		{ "sibling": { "last": "", "first": "" } },
+		{ "spouse": { "last": "", "first": "" } },
+		{ "child": { "last": "", "first": "" } }
+	],
+	"missions": [
+		{
+			"start": { "year": "#", "month": "#", "day": "#" },
+			"end": { "year": "#", "month": "#", "day": "#" },
+			"companions": [],
+			"locations": [],
+			"recipients": [],
+			"sources": []
+		}
+	],
+	"sources": []
+}
